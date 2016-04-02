@@ -18,7 +18,7 @@ class RoRClient
 	public var ind:Int;
 	public var isServer:Bool = false;
 	
-	public var t_debug:Bool = true;
+	public var t_debug:Bool = false;
 	public var t_servtime:Int = 0;
 	public var t_oldpos:V2D = new V2D();
 	//public var SkillBuffs:Array<Ibuff> = new Array<Ibuff>();//TO-DO//
