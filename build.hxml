@@ -1,8 +1,6 @@
 -cp src
--cp C:/HaxeToolkit/haxe/lib/mcli/0,1,5
 -main Server
 -neko bin/server.n
 -D use_rtti_doc
 -D no-compilation
--D mcli=0.1.5
 -dce no
