@@ -1,0 +1,20 @@
+package signals;
+import haxe.io.Bytes;
+import utils.HexTools;
+
+/**
+ * ...
+ * @author TSLF
+ */
+class ClLib
+{
+	public static var GM_HANDSHAKE:Bytes = HexTools.bitedecode("474d3a53747564696f2d436F6E6E65637400");
+	public static var Cl_FOOTER:String = "dec0adde0c000000";
+	public static var Cl_VERSION:Bytes = HexTools.bitedecode(Cl_FOOTER+"28000000020000000000002e4000000000000000000000000000000840000000000000444076312e322e3800");
+	public static var Cl_VERSION_BANNED:Bytes = HexTools.bitedecode(Cl_FOOTER+"28000000020000000000002e4000000000000000000000000000000840000000000000444042414e4e45442100");
+	public static var Cl_NEWCLIENT:Bytes = HexTools.bitedecode(Cl_FOOTER+"1D0000002700000000000000000000000000000000020000000000000000000000");
+	public static var Cl_SERVERCLIENTEXISTS:Bytes = HexTools.bitedecode(Cl_FOOTER+"39000000030000000000002E4000000000000000000000000000000000000000000000000000000000000000400400000000010000536572766572a77C00");
+	public static var Sv_HandShake:String = "bebafeca0bb0adde10";
+	public static var Cl_HandShake:String = "adbeafdeebbe0df00c000000";
+	public static var Cl_PING:Bytes = HexTools.bitedecode("dec0adde0c00000016000000100000000000406a400000000000000840");
+}

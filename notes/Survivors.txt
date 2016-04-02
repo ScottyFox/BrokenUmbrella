@@ -1,0 +1,26 @@
+--commando--
+walkspeed 1.3
+--enforcer--
+walkspeed 1.3
+sheild applies a debuff of 46% walk speed...base speed = ~0.60
+--bandit--
+walkspeed 1.3
+--huntress--
+walkspeed 1.3
+--hand-d--
+walkspeed 1.4
+--engineer--
+walkspeed 1.3
+--miner--
+walkspeed 1.4
+--sniper--
+walkspeed 1.4
+--acrid--
+walkspeed 1.4
+--mercenary--
+walkspeed 1.4
+--loader--
+walkspeed 1.2
+--chef--
+walkspeed 1.4
+oilspeed 2.5 ... 78.57% buff (0.7857)
