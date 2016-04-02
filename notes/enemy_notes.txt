@@ -1,0 +1,87 @@
+common spawn radius 400
+
+-Spawn Cards-
+Desolate Forest
+0 > Lemurian
+1 > Rock Golem
+2 > CRASH???
+3 > Wisp
+4 > Greater Wisp
+5 > Scavanger
+
+Dried Lake
+0 > Lemurian
+1 > Sand Crab
+2 > CRASH???
+3 > Wisp
+4 > Greater Wisp
+5 > Scavanger
+
+Damp Caverns
+0 > Lemurian
+1 > Mushrum
+2 > Black Imp
+3 > Spitter
+4 > Greater Wisp
+5 > Scavanger
+
+Sky Meadow
+0 > Child
+1 > Rock Golem
+2 > CRASH???
+3 > Parent
+4 > Greater Wisp
+5 > Black Imp
+6 > Scavanger
+
+Boar Beach
+0 > CRASH???
+1 > Scavanger
+2 > CRASH???
+3 > CRASH???
+4 > Greater Wisp
+5 > Scavanger
+
+Ancient Valley
+0 > Clay Man
+1 > Rock Golem (white)
+2 > Mechanical Spider
+3 > Bighorn Bison
+4 > Scavanger
+
+Sunken Tomb
+0 > Clay Man
+1 > Sand Crab
+2 > Black Imp
+3 > Whorl
+4 > Scavanger
+
+Magma Barracks
+0 > Wisp
+1 > Mechanical Spider
+2 > CRASH???
+3 > Bighorn Bison
+4 > Scavanger
+
+Hive Cluster
+0 > Archaic Wisp
+1 > Parent
+2 > Gup
+3 > CRASH???
+4 > Spitter
+5 > Scavanger
+
+Temple of the Elders
+0 > Temple Guard
+1 > Clay Man
+2 > CRASH???
+3 > Elder Lemurian
+4 > Scavanger
+
+Risk of Rain
+0 > Temple Guard
+1 > Archaic Wisp
+2 > Elder Lemurian
+3 > Clay Man
+4 > CRASH???
+5 > Scavanger
