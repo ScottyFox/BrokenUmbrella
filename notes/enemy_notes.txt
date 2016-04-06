@@ -1,5 +1,45 @@
 common spawn radius 400
 
+
+Enemy Object ID's
+__________________
+Lemurian 220 ?222
+Elder Lemurian 224
+Child 226
+Parent 227
+Rock Golem 231
+Rock Golem (snow) 232
+Spitter 233
+Wisp 252
+Whorl 253
+Greater Wisp 254
+Archaic Wisp 257
+Black Imp 258
+Clay Man 266
+Bighorn Bison 267
+Mushrum 275
+Sand Crab 277
+Mechanical Spider 280
+Scavanger 290
+Temple Guard 293
+Gup 299
+
+Jellyfish 245
+Large Jellyfish 250
+Wandering Vagrant 249
+___________
+Boss Object ID's
+
+Toxic Beast 286
+^Boarlit 288
+^!Iron Boarlit 289
+
+Ifrit 320
+^Ifrit wall 318
+^Ifrit explosion 317
+
+Scavanger 290
+
 -Spawn Cards-
 Desolate Forest
 0 > Lemurian
@@ -85,3 +125,21 @@ Risk of Rain
 3 > Clay Man
 4 > CRASH???
 5 > Scavanger
+
+--Lemurian--
+walkspeed 1.2
+damage=14*power(enemy_buff,damage_co)
+
+skill 1 ""
+desc "slash" 
+cooldown 60
+damage ratio 1
+
+--Rock Golem--
+walkspeed 1
+damage=17*power(enemy_buff,damage_co)
+
+skill 1 ""
+desc "smash" 
+cooldown 60
+damage ratio 2
